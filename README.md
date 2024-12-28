@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuentinRemond
 - 👀 I’m interested in Web Site
 - 🌱 I’m currently learning Linux 
-- 💞️ I’m looking to collaborate on MacBook recommanding
+- 💞️ I’m looking for MacBook recommanding
 - 📫 How to reach me : Discord : justfino
 
 <!---
