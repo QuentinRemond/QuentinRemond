@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @QuentinRemond
-- 👀 I’m interested in discord bot
-- 🌱 I’m currently learning node.js 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Discord : Hachimaruden8#0123
+- 👀 I’m interested in Web Site
+- 🌱 I’m currently learning Linux 
+- 💞️ I’m looking to collaborate on MacBook recommanding
+- 📫 How to reach me : Discord : justfino
 
 <!---
 QuentinRemond/QuentinRemond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
