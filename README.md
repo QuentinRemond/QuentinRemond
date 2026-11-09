@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Quentin Remond
 
-🎓 First-year Computer Science student (BUT Informatique – IUT de Dijon, France)  
+🎓 Second-year Computer Science student (BUT Informatique – IUT de Dijon, France)  
 💻 Software Development Apprentice focused on C# / .NET
 
 ---
